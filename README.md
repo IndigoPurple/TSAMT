@@ -19,6 +19,7 @@ In this repository we provide code of the paper:
 Step 2-5 are implemented with `utils.py`.
 
 # Citation
+Cite our paper if you find it interesting!
 ```
 @article{zhao2021tsamt,
   title={TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras},
