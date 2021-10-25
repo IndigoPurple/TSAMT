@@ -1,4 +1,4 @@
-# TSAMT
+# TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras
 In this repository we provide code of the paper:
 > **TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras**
 
