@@ -1,6 +1,6 @@
 # TSAMT
 In this repository we provide code of the paper:
-> **TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras **
+> **TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras**
 
 > Yaping Zhao, Guanghan Li, Haitian Zheng, Zhongrui Wang
 
