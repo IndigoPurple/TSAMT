@@ -4,7 +4,7 @@ In this repository we provide code of the paper:
 > Yaping Zhao, Guanghan Li, Haitian Zheng, Zhongrui Wang
 > arxiv link: http://arxiv.org/abs/2109.14174
 <p align="center">
-<img src="images/teaser.png">
+<img src="img/teaser.png">
 </p>
 
 # Usage
