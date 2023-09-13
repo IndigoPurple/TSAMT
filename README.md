@@ -1,10 +1,10 @@
-# TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras
+# Cross-Camera Human Motion Transfer by Time Series Analysis
 In this repository we provide code of the paper:
-> **TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras**
+> **Cross-Camera Human Motion Transfer by Time Series Analysis**
 
-> Yaping Zhao, Guanghan Li, Haitian Zheng, Zhongrui Wang
+> Yaping Zhao, Guanghan Li, Edmund Y. Lam
 
-> arxiv link: http://arxiv.org/abs/2109.14174
+> link: 
 
 <p align="center">
 <img src="img/teaser.png">
@@ -21,10 +21,9 @@ Step 2-5 are implemented with `utils.py`.
 # Citation
 Cite our paper if you find it interesting!
 ```
-@article{zhao2021tsamt,
-  title={TSAMT: Time-Series-Analysis-based Motion Transfer among Multiple Cameras},
-  author={Zhao, Yaping and Li, Guanghan and Wang, Zhongrui},
-  journal={arXiv preprint arXiv:2109.14174},
-  year={2021}
+@article{zhao,
+  title={Cross-Camera Human Motion Transfer by Time Series Analysis},
+  author={Zhao, Yaping and Li, Guanghan and Lam, Edmund Y.},
+  journal={to appear}
 }
 ```
