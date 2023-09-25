@@ -4,7 +4,7 @@ In this repository we provide code of the paper:
 
 > Yaping Zhao, Guanghan Li, Edmund Y. Lam
 
-> link: 
+> link: https://github.com/IndigoPurple/TSAMT/blob/main/sm/sm.pdf
 
 <p align="center">
 <img src="img/teaser.png">
