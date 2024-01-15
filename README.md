@@ -80,9 +80,10 @@ By following these steps and understanding the code details and parameters provi
 # Citation
 Cite our paper if you find it interesting!
 ```
-@article{zhao,
+@inproceedings{zhao2024cross,
   title={Cross-Camera Human Motion Transfer by Time Series Analysis},
   author={Zhao, Yaping and Li, Guanghan and Lam, Edmund Y.},
-  journal={to appear}
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing},
+  year={2024}
 }
 ```
