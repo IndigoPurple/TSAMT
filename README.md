@@ -10,6 +10,10 @@ In this repository we provide code of the paper:
 <img src="img/teaser.png">
 </p>
 
+<p align="center">
+<img src="img/motion_transfer.gif">
+</p>
+
 # Usage
 ## Preparation
 
